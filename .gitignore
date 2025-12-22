@@ -1,0 +1,11 @@
+# Ignore trained models
+face_model.yml
+labels.npy
+
+# Ignore datasets and attendance
+dataset/students/
+attendance/
+
+# Python cache
+__pycache__/
+*.pyc
