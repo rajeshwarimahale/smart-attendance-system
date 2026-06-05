@@ -29,9 +29,11 @@ automatically.
 
 ## Technologies Used
 - Python 3.10
-- OpenCV (opencv-contrib-python)
+- OpenCV (opencv-contrib-python) — Haar cascades + LBPH algorithm
 - NumPy
-
+- Pandas — attendance report generation
+- SQLite — attendance record storage
+- scikit-learn
 ---
 
 ## Project Structure
